@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+input[type="text"]{
+  background-color: aliceblue;
+  color: black;
+  padding: 10px 25px 10px 25px;
+  border-radius: 60px;
+
+}
+body{
+  background-color: rgb(155, 174, 188);
+}
+
+input[type="submit"]{
+  background-color: greenyellow;
+  padding: 10px 25px 10px 25px;
+  border-radius: 60px;
+
+  
+}
+.deleteBtn{
+  border-radius: 60px;
+  padding: 10px 25px 10px 25px;
+
+
+
+}
+
+button{
+  background-color: red;
+  color: white;
+
+}
+h1{
+  background-color: black;
+  color: honeydew;
+  border-radius: 60px;
+}
+
